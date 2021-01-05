@@ -1,3 +1,3 @@
 # Register Page
 
-just html/css with bootstrap4
+https://bondok6.github.io/register-page/
